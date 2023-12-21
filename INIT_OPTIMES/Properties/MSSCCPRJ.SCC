@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[INIT_OPTIMES.sln]
+SCC_Aux_Path = keun-sol.iptime.org:8888:KEUNSOL_SRC_VSS
+SCC_Project_Name = $/OptiMES_2023v/INIT_OPTIMES
+
+[INIT_OPTIMES.csproj]
+SCC_Aux_Path = keun-sol.iptime.org:8888:KEUNSOL_SRC_VSS
+SCC_Project_Name = $/OptiMES_2023v/INIT_OPTIMES
+
